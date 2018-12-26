@@ -2,7 +2,7 @@
 
 An on-line algorithms that efﬁciently estimate frequencies in the active window over streaming data.
 
-According to the paper : Efﬁciently Summarizing Data Streams over Sliding Windows（2015）
+According to the paper: Efﬁciently Summarizing Data Streams over Sliding Windows（2015）
 
 
 
